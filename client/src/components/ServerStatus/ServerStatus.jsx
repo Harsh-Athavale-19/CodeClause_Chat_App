@@ -9,7 +9,9 @@ const ServerStatus = () => {
     setConnectionState("connecting");
 
     try {
-      const response = await axios.get("http://localhost:3011/status");
+      const response = await axios.get(
+        "https://chat-app-server-by-harsh-athavale.onrender.com/status"
+      );
       const current_state = response.data.server;
 
       if (current_state === "active") {

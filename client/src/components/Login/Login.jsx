@@ -4,7 +4,7 @@ import Chats from "./../Chats/Chats";
 import "./Login.css";
 import ServerStatus from "../ServerStatus/ServerStatus";
 
-const socket = io.connect("http://localhost:3011");
+const socket = io.connect("https://chat-app-server-by-harsh-athavale.onrender.com/");
 
 const Login = () => {
   const [username, setUsername] = useState("");
