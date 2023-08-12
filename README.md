@@ -18,13 +18,13 @@ The React Chat App is created as part of the Internship Task 1 for CodeClause. I
 ## Screenshots
 
 #### Login Page
-![Login Page](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/303a8cd0-4b69-462e-a1c0-d1d814120191)
+![Login Page](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/f4e3bd46-fd57-43cf-a6a3-18928e8bf1d7)
 
 #### Chats Page 1
-![Chats Page 1](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/f96278d2-5a1a-4cf5-bdc4-c72bc0744438)
+![Chats Page 1](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/87c3dc9c-8704-4ae9-bfd2-84f347e05d33)
 
 #### Chats Page 2
-![Chats Page 2](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/e13b4366-9f7d-4d10-8e61-76eda5f7e54a)
+![Chats Page 2](https://github.com/Harsh-Athavale-19/CodeClause_Chat_App/assets/73172570/53dd850d-f6c8-4892-82f9-83b1106741db)
 
 ## Contributions
 
