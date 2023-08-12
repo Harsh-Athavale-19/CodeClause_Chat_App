@@ -13,7 +13,7 @@ const botName = "BOT";
 
 const io = new Server(server, {
   cors: {
-    origin: "https://chat-app-by-harsh-athavale.netlify.app/",
+    origin: "https://chat-app-by-harsh-athavale.netlify.app",
     methods: ["GET", "POST"],
   },
 });

@@ -4,7 +4,7 @@ import Chats from "./../Chats/Chats";
 import "./Login.css";
 import ServerStatus from "../ServerStatus/ServerStatus";
 
-const socket = io.connect("https://chat-app-server-by-harsh-athavale.onrender.com/");
+const socket = io.connect("https://chat-app-server-by-harsh-athavale.onrender.com");
 
 const Login = () => {
   const [username, setUsername] = useState("");
@@ -19,7 +19,7 @@ const Login = () => {
       room,
     };
     setLoginDetails(newEntry);
-    console.log(loginDetails);
+    // console.log(loginDetails);
     setUsername("");
     setRoom("");
     setShowChat(true);
